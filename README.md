@@ -93,7 +93,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Authors
 
 - [Emmanuel Fomundam](https://github.com/emmanuelfomundam)
-- [Patrick Ekeu]
+- [Patrick Ekeu](https://www.linkedin.com/in/patrickekeu/)
 - Contributors welcome!
 
 ## Support
