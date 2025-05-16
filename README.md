@@ -1,5 +1,3 @@
-Certainly! Here’s a README.md template for your Inventory Management Database project (Microsoft Access database). You can copy, edit, or expand this as needed for your repository.
-
 ---
 
 # ITS DTS Inventory Management Database
