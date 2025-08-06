@@ -33,11 +33,3 @@ Design and develop a reliable inventory management solution using Microsoft Acce
 1. Open `ITS_DTS_Inventory.accdb` with Microsoft Access
 2. Use the main navigation form to register new inventory or manage transactions
 3. Navigate to the **Reports** section to generate predefined inventory reports
-
----
-
-## 🔌 Optional Python Integration (for automation/reporting)
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
